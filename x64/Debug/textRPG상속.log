@@ -1,0 +1,14 @@
+﻿  CCharacter.cpp
+  CCore.cpp
+  CMonster.cpp
+  CObj.cpp
+  CObjectManager.cpp
+  CPlayer.cpp
+  CStage.cpp
+  CStageEasy.cpp
+  CStageHard.cpp
+  CStageManager.cpp
+  CStageNormal.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  textRPG상속.vcxproj -> C:\Users\SAMSUNG\source\repos\textRPG상속\x64\Debug\textRPG상속.exe
